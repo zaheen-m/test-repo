@@ -1,2 +1,3 @@
-this new Text 
-replace the placeholder text
+this new Text in branch -z
+replace the branch text of z
+add other text is z
